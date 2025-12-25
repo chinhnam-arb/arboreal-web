@@ -3,5 +3,5 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://arboreal.org/sitemap.xml
+Sitemap: https://arboreal.earth/sitemap.xml
 
