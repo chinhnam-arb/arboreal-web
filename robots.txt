@@ -1,0 +1,7 @@
+# Arboreal robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://arboreal.org/sitemap.xml
+
